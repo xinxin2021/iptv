@@ -1,0 +1,37 @@
+name: Auto Update EPG File
+
+on:
+  schedule:
+    - cron: "0 19 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3.5.3
+
+      - name: Set up Python 3.7
+        uses: actions/setup-python@v4.7.0
+          with: 
+            python-version: 3.7
+      
+      - name: Update EPG
+        run: |
+          cd py
+          python main.py
+      
+      - name: Commit
+        run: |
+          git config --global user.email xinxin@xinxin2021.tk
+          git config --global user.name xinxin2021
+          git config --global user.signingkey ${{ secrets.GPG }}
+          git add .
+          git commit -S -m "[Robot] Update EPG"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.TOKEN }}
+          branch: ${{ github.ref }}
