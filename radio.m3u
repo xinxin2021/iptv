@@ -11,6 +11,8 @@ https://stream.hndt.com/live/yule/playlist.m3u8
 https://stream.hndt.com/live/yinyue/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/大象资讯台.png" group-title="综合广播" radio="true" catchup="disable",大象资讯台
 https://stream.hndt.com/live/nongcun/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/My%20Radio.png" group-title="综合广播" radio="true" catchup="disable",My Radio
+https://stream.hndt.com/live/yingshi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/私家车999.png" group-title="综合广播" radio="true" catchup="disable",私家车999
 https://stream.hndt.com/live/sijiache/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南教育广播.jpg" group-title="综合广播" radio="true" catchup="disable",河南教育广播
@@ -63,6 +65,8 @@ https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2020/0701/20200701052348.png" group-title="综合广播" radio="true" catchup="disable",天津静海区综合广播·交通广播网
 http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2021/0831/20210831043119.jpeg" group-title="综合广播" radio="true" catchup="disable",湖南旅游广播·PoPoPod播客电台
+https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏故事广播.png" group-title="综合广播" radio="true" catchup="disable",江苏故事广播
 https://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏新闻综合广播.png" group-title="综合广播" radio="true" catchup="disable",江苏新闻综合广播
@@ -121,7 +125,7 @@ https://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
 https://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东交通广播.png" group-title="综合广播" radio="true" catchup="disable",山东交通广播
 https://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/radio/山东体育休闲广播.png" group-title="综合广播" radio="true" catchup="disable",山东体育休闲广播
+#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/radio/山东体育休闲广播.png" group-title="综合广播" catchup="disable",山东体育休闲广播
 https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东经济广播.png" group-title="综合广播" radio="true" catchup="disable",山东经济广播
 https://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
