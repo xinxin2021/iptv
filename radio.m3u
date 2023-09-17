@@ -1,423 +1,423 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南新闻广播.png" group-title="综合广播" radio="true" catchup="disable",河南新闻广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南新闻广播.png" group-title="综合广播" radio="true",河南新闻广播
 https://stream.hndt.com/live/xinwen/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南经济广播.png" group-title="综合广播" radio="true" catchup="disable",河南经济广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南经济广播.png" group-title="综合广播" radio="true",河南经济广播
 https://stream.hndt.com/live/jingji/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南交通广播.png" group-title="综合广播" radio="true" catchup="disable",河南交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南交通广播.png" group-title="综合广播" radio="true",河南交通广播
 https://stream.hndt.com/live/jiaotong/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南戏曲广播.png" group-title="综合广播" radio="true" catchup="disable",河南戏曲广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南戏曲广播.png" group-title="综合广播" radio="true",河南戏曲广播
 https://stream.hndt.com/live/yule/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南音乐广播.png" group-title="综合广播" radio="true" catchup="disable",河南音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南音乐广播.png" group-title="综合广播" radio="true",河南音乐广播
 https://stream.hndt.com/live/yinyue/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/大象资讯台.png" group-title="综合广播" radio="true" catchup="disable",大象资讯台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/大象资讯台.png" group-title="综合广播" radio="true",大象资讯台
 https://stream.hndt.com/live/nongcun/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/My%20Radio.png" group-title="综合广播" radio="true" catchup="disable",My Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/My%20Radio.png" group-title="综合广播" radio="true",My Radio
 https://stream.hndt.com/live/yingshi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/私家车999.png" group-title="综合广播" radio="true" catchup="disable",私家车999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/私家车999.png" group-title="综合广播" radio="true",私家车999
 https://stream.hndt.com/live/sijiache/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南教育广播.jpg" group-title="综合广播" radio="true" catchup="disable",河南教育广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南教育广播.jpg" group-title="综合广播" radio="true",河南教育广播
 https://stream.hndt.com/live/jiaoyu/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/乐龄105.6.png" group-title="综合广播" radio="true" catchup="disable",河南信息广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/乐龄105.6.png" group-title="综合广播" radio="true",河南信息广播
 https://stream.hndt.com/live/leling/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/Big%20Radio.jpg" group-title="综合广播" radio="true" catchup="disable",Big Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/Big%20Radio.jpg" group-title="综合广播" radio="true",Big Radio
 https://stream.hndt.com/live/gudian/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/环球资讯广播.png" group-title="综合广播" radio="true" catchup="disable",CRI环球资讯广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/环球资讯广播.png" group-title="综合广播" radio="true",CRI环球资讯广播
 https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/华语环球广播.png" group-title="综合广播" radio="true" catchup="disable",CRI华语环球广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/华语环球广播.png" group-title="综合广播" radio="true",CRI华语环球广播
 http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/chinaplusradio.png" group-title="综合广播" radio="true" catchup="disable",CRI英语环球广播 China Plus Radio 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/chinaplusradio.png" group-title="综合广播" radio="true",CRI英语环球广播 China Plus Radio 
 http://sk.cri.cn/am846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/chinaplusradio.png" group-title="综合广播" radio="true" catchup="disable",CRI外语教学广播 China Plus Radio 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/chinaplusradio.png" group-title="综合广播" radio="true",CRI外语教学广播 China Plus Radio 
 http://sk.cri.cn/am1008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/南海之声.png" group-title="综合广播" radio="true" catchup="disable",CRI南海之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/南海之声.png" group-title="综合广播" radio="true",CRI南海之声
 http://sk.cri.cn/nhzs.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/轻松调频.png" group-title="综合广播" radio="true" catchup="disable",CRI轻松调频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/轻松调频.png" group-title="综合广播" radio="true",CRI轻松调频
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/p38821d.png" group-title="综合广播" radio="true" catchup="disable",CRI粤语国际
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/p38821d.png" group-title="综合广播" radio="true",CRI粤语国际
 http://sk.cri.cn/hxfh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/中国之声.png" group-title="综合广播" radio="true" catchup="disable",CNR中国之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/中国之声.png" group-title="综合广播" radio="true",CNR中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/经济之声.png" group-title="综合广播" radio="true" catchup="disable",CNR经济之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/经济之声.png" group-title="综合广播" radio="true",CNR经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/文艺之声.png" group-title="综合广播" radio="true" catchup="disable",CNR文艺之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/文艺之声.png" group-title="综合广播" radio="true",CNR文艺之声
 http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/阅读之声.png" group-title="综合广播" radio="true" catchup="disable",CNR阅读之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/阅读之声.png" group-title="综合广播" radio="true",CNR阅读之声
 http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/台海之声.png" group-title="综合广播" radio="true" catchup="disable",CNR台海之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/台海之声.png" group-title="综合广播" radio="true",CNR台海之声
 http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/乡村之声.png" group-title="综合广播" radio="true" catchup="disable",CNR乡村之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/乡村之声.png" group-title="综合广播" radio="true",CNR乡村之声
 http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/老年之声.png" group-title="综合广播" radio="true" catchup="disable",CNR老年之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/老年之声.png" group-title="综合广播" radio="true",CNR老年之声
 http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr民族之声.png" group-title="综合广播" radio="true" catchup="disable",CNR民族之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr民族之声.png" group-title="综合广播" radio="true",CNR民族之声
 http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr香港之声.png" group-title="综合广播" radio="true" catchup="disable",CNR香港之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr香港之声.png" group-title="综合广播" radio="true",CNR香港之声
 http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/大湾区之声.png" group-title="综合广播" radio="true" catchup="disable",CNR大湾区之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/大湾区之声.png" group-title="综合广播" radio="true",CNR大湾区之声
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr神州之声.png" group-title="综合广播" radio="true" catchup="disable",CNR神州之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr神州之声.png" group-title="综合广播" radio="true",CNR神州之声
 http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://live.fanmingming.com/radio/中国交通广播.png" group-title="综合广播" radio="true" catchup="disable",CNR中国交通广播
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://live.fanmingming.com/radio/中国交通广播.png" group-title="综合广播" radio="true",CNR中国交通广播
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长三角之声.png" group-title="综合广播" radio="true" catchup="disable",上海长三角之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长三角之声.png" group-title="综合广播" radio="true",上海长三角之声
 https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
-#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://upload.ajmide.com/p/image/202101/14/142407-nN2AikHyrt1610609292338_1915x1915.jpg" group-title="综合广播" radio="true" catchup="disable",上海第一财经广播
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://upload.ajmide.com/p/image/202101/14/142407-nN2AikHyrt1610609292338_1915x1915.jpg" group-title="综合广播" radio="true",上海第一财经广播
 https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2020/0701/20200701052348.png" group-title="综合广播" radio="true" catchup="disable",天津静海区综合广播·交通广播网
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2020/0701/20200701052348.png" group-title="综合广播" radio="true",天津静海区综合广播·交通广播网
 http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2021/0831/20210831043119.jpeg" group-title="综合广播" radio="true" catchup="disable",湖南旅游广播·PoPoPod播客电台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2021/0831/20210831043119.jpeg" group-title="综合广播" radio="true",湖南旅游广播·PoPoPod播客电台
 https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏故事广播.png" group-title="综合广播" radio="true" catchup="disable",江苏故事广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏故事广播.png" group-title="综合广播" radio="true",江苏故事广播
 https://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏新闻综合广播.png" group-title="综合广播" radio="true" catchup="disable",江苏新闻综合广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏新闻综合广播.png" group-title="综合广播" radio="true",江苏新闻综合广播
 https://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏文艺广播.png" group-title="综合广播" radio="true" catchup="disable",江苏文艺广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏文艺广播.png" group-title="综合广播" radio="true",江苏文艺广播
 https://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏财经广播.png" group-title="综合广播" radio="true" catchup="disable",江苏财经广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏财经广播.png" group-title="综合广播" radio="true",江苏财经广播
 https://satellitepull.cnr.cn/live/wx32jscjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽之声.png" group-title="综合广播" radio="true" catchup="disable",安徽之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽之声.png" group-title="综合广播" radio="true",安徽之声
 https://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽城市之声.png" group-title="综合广播" radio="true" catchup="disable",安徽生活广播·城市之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽城市之声.png" group-title="综合广播" radio="true",安徽生活广播·城市之声
 https://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽经济广播.png" group-title="综合广播" radio="true" catchup="disable",安徽经济广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽经济广播.png" group-title="综合广播" radio="true",安徽经济广播
 https://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽交通广播.png" group-title="综合广播" radio="true" catchup="disable",安徽交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽交通广播.png" group-title="综合广播" radio="true",安徽交通广播
 https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽高速之声.png" group-title="综合广播" radio="true" catchup="disable",安徽旅游广播·高速之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽高速之声.png" group-title="综合广播" radio="true",安徽旅游广播·高速之声
 https://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽戏曲广播.png" group-title="综合广播" radio="true" catchup="disable",安徽戏曲广播·动听995
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽戏曲广播.png" group-title="综合广播" radio="true",安徽戏曲广播·动听995
 https://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽故事广播.png" group-title="综合广播" radio="true" catchup="disable",安徽故事广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽故事广播.png" group-title="综合广播" radio="true",安徽故事广播
 https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖北之声.png" group-title="综合广播" radio="true" catchup="disable",湖北之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖北之声.png" group-title="综合广播" radio="true",湖北之声
 https://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/楚天交通广播.png" group-title="综合广播" radio="true" catchup="disable",楚天交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/楚天交通广播.png" group-title="综合广播" radio="true",楚天交通广播
 https://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖北亲子广播.png" group-title="综合广播" radio="true" catchup="disable",湖北亲子广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖北亲子广播.png" group-title="综合广播" radio="true",湖北亲子广播
 https://satellitepull.cnr.cn/live/wx32hubfnetgb/playlist.m3u8
-#EXTINF:-1 tvg-id="1781" tvg-name="湖北生活频道" tvg-logo="https://live.fanmingming.com/radio/湖北生活广播.png" group-title="综合广播" radio="true" catchup="disable",湖北生活广播
+#EXTINF:-1 tvg-id="1781" tvg-name="湖北生活频道" tvg-logo="https://live.fanmingming.com/radio/湖北生活广播.png" group-title="综合广播" radio="true",湖北生活广播
 https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖北城市之声.png" group-title="综合广播" radio="true" catchup="disable",湖北城市之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖北城市之声.png" group-title="综合广播" radio="true",湖北城市之声
 https://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖北资讯广播.png" group-title="综合广播" radio="true" catchup="disable",湖北资讯广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖北资讯广播.png" group-title="综合广播" radio="true",湖北资讯广播
 https://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
-#EXTINF:-1 tvg-id="1787" tvg-name="武汉新闻综合频道" tvg-logo="http://pic.qingting.fm/2015/0617/2015061718015278.jpg" group-title="综合广播" radio="true" catchup="disable",武汉新闻广播
+#EXTINF:-1 tvg-id="1787" tvg-name="武汉新闻综合频道" tvg-logo="http://pic.qingting.fm/2015/0617/2015061718015278.jpg" group-title="综合广播" radio="true",武汉新闻广播
 http://stream.appwuhan.com/xwpdzb/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2018/0101/20180101120944.jpeg" group-title="综合广播" radio="true" catchup="disable",武汉交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2018/0101/20180101120944.jpeg" group-title="综合广播" radio="true",武汉交通广播
 http://stream.appwuhan.com/jtpdzb/sd/live.m3u8
-#EXTINF:-1 tvg-id="1790" tvg-name="武汉经济频道" tvg-logo="https://pic.qingting.fm/2015/1125/20151125214015766.jpg" group-title="综合广播" radio="true" catchup="disable",武汉经济广播
+#EXTINF:-1 tvg-id="1790" tvg-name="武汉经济频道" tvg-logo="https://pic.qingting.fm/2015/1125/20151125214015766.jpg" group-title="综合广播" radio="true",武汉经济广播
 http://stream.appwuhan.com/cjpdzb/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北文艺广播.png" group-title="综合广播" radio="true" catchup="disable",河北文艺广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北文艺广播.png" group-title="综合广播" radio="true",河北文艺广播
 https://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北综合广播.png" group-title="综合广播" radio="true" catchup="disable",河北综合广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北综合广播.png" group-title="综合广播" radio="true",河北综合广播
 https://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北交通广播.png" group-title="综合广播" radio="true" catchup="disable",河北交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北交通广播.png" group-title="综合广播" radio="true",河北交通广播
 https://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北故事广播.png" group-title="综合广播" radio="true" catchup="disable",河北经济广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北故事广播.png" group-title="综合广播" radio="true",河北经济广播
 https://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北生活广播.png" group-title="综合广播" radio="true" catchup="disable",河北生活广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北生活广播.png" group-title="综合广播" radio="true",河北生活广播
 https://satellitepull.cnr.cn/live/wxhebshgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福建都市广播.png" group-title="综合广播" radio="true" catchup="disable",福建都市广播·私家车987
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福建都市广播.png" group-title="综合广播" radio="true",福建都市广播·私家车987
 https://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福建东南广播.png" group-title="综合广播" radio="true" catchup="disable",福建东南广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福建东南广播.png" group-title="综合广播" radio="true",福建东南广播
 https://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江西都市广播.png" group-title="综合广播" radio="true" catchup="disable",江西都市广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江西都市广播.png" group-title="综合广播" radio="true",江西都市广播
 https://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东交通广播.png" group-title="综合广播" radio="true" catchup="disable",山东交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东交通广播.png" group-title="综合广播" radio="true",山东交通广播
 https://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/radio/山东体育休闲广播.png" group-title="综合广播" radio="true" catchup="disable",山东体育休闲广播
+#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/radio/山东体育休闲广播.png" group-title="综合广播" radio="true",山东体育休闲广播
 https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东经济广播.png" group-title="综合广播" radio="true" catchup="disable",山东经济广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东经济广播.png" group-title="综合广播" radio="true",山东经济广播
 https://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东乡村广播.png" group-title="综合广播" radio="true" catchup="disable",山东乡村广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东乡村广播.png" group-title="综合广播" radio="true",山东乡村广播
 https://satellitepull.cnr.cn/live/wxsdxcgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/绍兴之声.png" group-title="综合广播" radio="true" catchup="disable",绍兴之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/绍兴之声.png" group-title="综合广播" radio="true",绍兴之声
 http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/绍兴交通广播.png" group-title="综合广播" radio="true" catchup="disable",绍兴交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/绍兴交通广播.png" group-title="综合广播" radio="true",绍兴交通广播
 http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西交通广播.png" group-title="综合广播" radio="true" catchup="disable",陕西交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西交通广播.png" group-title="综合广播" radio="true",陕西交通广播
 https://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西经济广播.png" group-title="综合广播" radio="true" catchup="disable",陕西经济广播·896汽车调频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西经济广播.png" group-title="综合广播" radio="true",陕西经济广播·896汽车调频
 https://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西都市广播.png" group-title="综合广播" radio="true" catchup="disable",陕西都市广播·陕广新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西都市广播.png" group-title="综合广播" radio="true",陕西都市广播·陕广新闻
 https://satellitepull.cnr.cn/live/wxsxxdsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西农村广播.png" group-title="综合广播" radio="true" catchup="disable",陕西农村广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西农村广播.png" group-title="综合广播" radio="true",陕西农村广播
 https://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西戏曲广播.png" group-title="综合广播" radio="true" catchup="disable",陕西戏曲广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西戏曲广播.png" group-title="综合广播" radio="true",陕西戏曲广播
 https://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西新闻广播.png" group-title="综合广播" radio="true" catchup="disable",陕西新闻广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西新闻广播.png" group-title="综合广播" radio="true",陕西新闻广播
 https://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江之声.png" group-title="综合广播" radio="true" catchup="disable",浙江之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江之声.png" group-title="综合广播" radio="true",浙江之声
 https://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江经济广播.png" group-title="综合广播" radio="true" catchup="disable",浙江经济广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江经济广播.png" group-title="综合广播" radio="true",浙江经济广播
 https://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江交通之声.png" group-title="综合广播" radio="true" catchup="disable",浙江交通之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江交通之声.png" group-title="综合广播" radio="true",浙江交通之声
 https://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江民生广播.png" group-title="综合广播" radio="true" catchup="disable",浙江民生资讯广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江民生广播.png" group-title="综合广播" radio="true",浙江民生资讯广播
 https://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江城市之声.png" group-title="综合广播" radio="true" catchup="disable",浙江城市之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江城市之声.png" group-title="综合广播" radio="true",浙江城市之声
 https://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江旅游之声.png" group-title="综合广播" radio="true" catchup="disable",浙江旅游之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江旅游之声.png" group-title="综合广播" radio="true",浙江旅游之声
 https://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁波新闻综合广播.png" group-title="综合广播" radio="true" catchup="disable",宁波新闻综合广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁波新闻综合广播.png" group-title="综合广播" radio="true",宁波新闻综合广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁波老少广播.png" group-title="综合广播" radio="true" catchup="disable",宁波老少广播·阳光904
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁波老少广播.png" group-title="综合广播" radio="true",宁波老少广播·阳光904
 http://ihzlh.linker.cc/ihzlh/zjnb_ts05_904.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁波交通广播.png" group-title="综合广播" radio="true" catchup="disable",宁波交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁波交通广播.png" group-title="综合广播" radio="true",宁波交通广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts01_939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁波经济广播.png" group-title="综合广播" radio="true" catchup="disable",宁波经济广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁波经济广播.png" group-title="综合广播" radio="true",宁波经济广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2021/0810/20210810093440.jpeg" group-title="综合广播" radio="true" catchup="disable",惠州综合广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2021/0810/20210810093440.jpeg" group-title="综合广播" radio="true",惠州综合广播
 http://stream.hztvmg.com/gbtest2/sd/live.m3u8
-#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="https://live.fanmingming.com/radio/四川经济广播.png" group-title="综合广播" radio="true" catchup="disable",四川经济广播
+#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="https://live.fanmingming.com/radio/四川经济广播.png" group-title="综合广播" radio="true",四川经济广播
 https://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="https://live.fanmingming.com/radio/四川文艺广播.png" group-title="综合广播" radio="true" catchup="disable",四川文艺广播
+#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="https://live.fanmingming.com/radio/四川文艺广播.png" group-title="综合广播" radio="true",四川文艺广播
 https://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川旅游生活广播.png" group-title="综合广播" radio="true" catchup="disable",四川旅游生活广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川旅游生活广播.png" group-title="综合广播" radio="true",四川旅游生活广播
 https://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川交通广播.png" group-title="综合广播" radio="true" catchup="disable",四川交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川交通广播.png" group-title="综合广播" radio="true",四川交通广播
 https://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川之声.png" group-title="综合广播" radio="true" catchup="disable",四川综合广播四川之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川之声.png" group-title="综合广播" radio="true",四川综合广播四川之声
 https://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川私家车广播.png" group-title="综合广播" radio="true" catchup="disable",四川私家车广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川私家车广播.png" group-title="综合广播" radio="true",四川私家车广播
 https://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州经济广播.png" group-title="综合广播" radio="true" catchup="disable",贵州经济广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州经济广播.png" group-title="综合广播" radio="true",贵州经济广播
 https://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州旅游广播.png" group-title="综合广播" radio="true" catchup="disable",贵州旅游广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州旅游广播.png" group-title="综合广播" radio="true",贵州旅游广播
 https://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州故事广播.png" group-title="综合广播" radio="true" catchup="disable",贵州故事广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州故事广播.png" group-title="综合广播" radio="true",贵州故事广播
 https://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州综合广播.png" group-title="综合广播" radio="true" catchup="disable",贵州综合广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州综合广播.png" group-title="综合广播" radio="true",贵州综合广播
 https://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true" catchup="disable",延边文艺生活广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",延边文艺生活广播
 https://satellitepull.cnr.cn/live/wxybwyshgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/辽宁之声.png" group-title="综合广播" radio="true" catchup="disable",辽宁之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/辽宁之声.png" group-title="综合广播" radio="true",辽宁之声
 https://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/辽宁乡村广播.png" group-title="综合广播" radio="true" catchup="disable",辽宁乡村广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/辽宁乡村广播.png" group-title="综合广播" radio="true",辽宁乡村广播
 https://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
-#EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="https://live.fanmingming.com/radio/辽宁经济广播.png" group-title="综合广播" radio="true" catchup="disable",辽宁经济广播
+#EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="https://live.fanmingming.com/radio/辽宁经济广播.png" group-title="综合广播" radio="true",辽宁经济广播
 https://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/辽宁交通广播.png" group-title="综合广播" radio="true" catchup="disable",辽宁交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/辽宁交通广播.png" group-title="综合广播" radio="true",辽宁交通广播
 https://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福州左海之声.png" group-title="综合广播" radio="true" catchup="disable",福州左海之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福州左海之声.png" group-title="综合广播" radio="true",福州左海之声
 http://live.zohi.tv/audio/s10001-FM901/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福州交通广播.png" group-title="综合广播" radio="true" catchup="disable",福州交通之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福州交通广播.png" group-title="综合广播" radio="true",福州交通之声
 http://live.zohi.tv/audio/s10001-FM876/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福州新闻广播.png" group-title="综合广播" radio="true" catchup="disable",福州新闻广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福州新闻广播.png" group-title="综合广播" radio="true",福州新闻广播
 http://live.zohi.tv/audio/s10001-FM944/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/黑龙江都市女性广播.png" group-title="综合广播" radio="true" catchup="disable",黑龙江都市女性广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/黑龙江都市女性广播.png" group-title="综合广播" radio="true",黑龙江都市女性广播
 https://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/黑龙江高校广播.png" group-title="综合广播" radio="true" catchup="disable",黑龙江高校广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/黑龙江高校广播.png" group-title="综合广播" radio="true",黑龙江高校广播
 https://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/黑龙江老年少儿广播.png" group-title="综合广播" radio="true" catchup="disable",黑龙江老年少儿广播·爱家调频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/黑龙江老年少儿广播.png" group-title="综合广播" radio="true",黑龙江老年少儿广播·爱家调频
 https://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true" catchup="disable",黑龙江朝鲜语广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",黑龙江朝鲜语广播
 https://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2011/0926/20110926100350125.jpg" group-title="综合广播" radio="true" catchup="disable",内蒙古农村牧区广播绿野之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2011/0926/20110926100350125.jpg" group-title="综合广播" radio="true",内蒙古农村牧区广播绿野之声
 https://satellitepull.cnr.cn/live/wx32nmglyzs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2011/0926/20110926100610683.jpg" group-title="综合广播" radio="true" catchup="disable",内蒙古新闻广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2011/0926/20110926100610683.jpg" group-title="综合广播" radio="true",内蒙古新闻广播
 https://satellitepull.cnr.cn/live/wx32nmghyzhxwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2015/0804/20150804105202673.jpg" group-title="综合广播" radio="true" catchup="disable",内蒙古经济生活广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2015/0804/20150804105202673.jpg" group-title="综合广播" radio="true",内蒙古经济生活广播
 https://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2011/0926/20110926100411244.jpg" group-title="综合广播" radio="true" catchup="disable",内蒙古评书曲艺广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2011/0926/20110926100411244.jpg" group-title="综合广播" radio="true",内蒙古评书曲艺广播
 https://satellitepull.cnr.cn/live/wx32nmgpsqy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2015/0324/20150324134256614.jpg" group-title="综合广播" radio="true" catchup="disable",内蒙古蒙语对外广播草原之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2015/0324/20150324134256614.jpg" group-title="综合广播" radio="true",内蒙古蒙语对外广播草原之声
 https://satellitepull.cnr.cn/live/wx32nmgdwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2011/0926/20110926100552676.jpg" group-title="综合广播" radio="true" catchup="disable",内蒙古蒙语新闻综合广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2011/0926/20110926100552676.jpg" group-title="综合广播" radio="true",内蒙古蒙语新闻综合广播
 https://satellitepull.cnr.cn/live/wx32nmgmygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true" catchup="disable",锡林郭勒汉语广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",锡林郭勒汉语广播
 https://satellitepull.cnr.cn/live/wx32nmgxlglhygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true" catchup="disable",锡林郭勒蒙语广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",锡林郭勒蒙语广播
 https://satellitepull.cnr.cn/live/wx32nmgxlglmygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true" catchup="disable",阿拉善汉语广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",阿拉善汉语广播
 https://satellitepull.cnr.cn/live/wx32nmgalshygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true" catchup="disable",阿拉善蒙语广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",阿拉善蒙语广播
 https://satellitepull.cnr.cn/live/wx32nmgalsmygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true" catchup="disable",呼伦贝尔汉语广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",呼伦贝尔汉语广播
 https://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true" catchup="disable",呼伦贝尔蒙语广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",呼伦贝尔蒙语广播
 https://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true" catchup="disable",新疆私家车广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",新疆私家车广播
 https://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/甘肃经济广播.png" group-title="综合广播" radio="true" catchup="disable",甘肃经济广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/甘肃经济广播.png" group-title="综合广播" radio="true",甘肃经济广播
 https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广西教育广播.png" group-title="综合广播" radio="true" catchup="disable",广西教育广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广西教育广播.png" group-title="综合广播" radio="true",广西教育广播
 https://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广西新闻广播.png" group-title="综合广播" radio="true" catchup="disable",广西综合广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广西新闻广播.png" group-title="综合广播" radio="true",广西综合广播
 https://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广西北部湾之声.png" group-title="综合广播" radio="true" catchup="disable",广西北部湾之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广西北部湾之声.png" group-title="综合广播" radio="true",广西北部湾之声
 https://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广西交通广播.png" group-title="综合广播" radio="true" catchup="disable",广西交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广西交通广播.png" group-title="综合广播" radio="true",广西交通广播
 https://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南新闻广播.png" group-title="综合广播" radio="true" catchup="disable",云南新闻广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南新闻广播.png" group-title="综合广播" radio="true",云南新闻广播
 https://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南经济广播.png" group-title="综合广播" radio="true" catchup="disable",云南经济广播·私家车电台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南经济广播.png" group-title="综合广播" radio="true",云南经济广播·私家车电台
 https://satellitepull.cnr.cn/live/wxynjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南交通之声.png" group-title="综合广播" radio="true" catchup="disable",云南交通之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南交通之声.png" group-title="综合广播" radio="true",云南交通之声
 https://satellitepull.cnr.cn/live/wxynjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南旅游广播.png" group-title="综合广播" radio="true" catchup="disable",云南旅游广播·香格里拉之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南旅游广播.png" group-title="综合广播" radio="true",云南旅游广播·香格里拉之声
 https://satellitepull.cnr.cn/live/wxxgllzs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南民族广播.png" group-title="综合广播" radio="true" catchup="disable",云南民族广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南民族广播.png" group-title="综合广播" radio="true",云南民族广播
 https://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南国际广播.png" group-title="综合广播" radio="true" catchup="disable",云南国际广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南国际广播.png" group-title="综合广播" radio="true",云南国际广播
 https://satellitepull.cnr.cn/live/wxynsegb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南教育广播.png" group-title="综合广播" radio="true" catchup="disable",云南教育广播·知道分子频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南教育广播.png" group-title="综合广播" radio="true",云南教育广播·知道分子频道
 https://satellitepull.cnr.cn/live/wxynjygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁夏经济广播.png" group-title="综合广播" radio="true" catchup="disable",宁夏经济广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁夏经济广播.png" group-title="综合广播" radio="true",宁夏经济广播
 https://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁夏新闻广播.png" group-title="综合广播" radio="true" catchup="disable",宁夏新闻广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁夏新闻广播.png" group-title="综合广播" radio="true",宁夏新闻广播
 https://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁夏旅游广播.png" group-title="综合广播" radio="true" catchup="disable",宁夏旅游广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁夏旅游广播.png" group-title="综合广播" radio="true",宁夏旅游广播
 https://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/青海新闻综合广播.png" group-title="综合广播" radio="true" catchup="disable",青海新闻综合广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/青海新闻综合广播.png" group-title="综合广播" radio="true",青海新闻综合广播
 https://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/青海经济广播.png" group-title="综合广播" radio="true" catchup="disable",青海经济广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/青海经济广播.png" group-title="综合广播" radio="true",青海经济广播
 https://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/世界华声.png" group-title="综合广播" radio="true" catchup="disable",世界华声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/世界华声.png" group-title="综合广播" radio="true",世界华声
 http://sk.cri.cn/hxfh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/开州之声.png" group-title="综合广播" radio="true" catchup="disable",开州之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/开州之声.png" group-title="综合广播" radio="true",开州之声
 http://183.64.174.171:10124/tlgb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西健康之声.png" group-title="综合广播" radio="true" catchup="disable",山西健康之声广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西健康之声.png" group-title="综合广播" radio="true",山西健康之声广播
 rtmp://radiolive.sxrtv.com/live/jiankang
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西农村广播.png" group-title="综合广播" radio="true" catchup="disable",山西农村广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西农村广播.png" group-title="综合广播" radio="true",山西农村广播
 rtmp://radiolive.sxrtv.com/live/nongcun
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西文艺广播.png" group-title="综合广播" radio="true" catchup="disable",山西文艺广播·好听1015
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西文艺广播.png" group-title="综合广播" radio="true",山西文艺广播·好听1015
 rtmp://radiolive.sxrtv.com/live/wenyi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西交通广播.png" group-title="综合广播" radio="true" catchup="disable",山西交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西交通广播.png" group-title="综合广播" radio="true",山西交通广播
 rtmp://radiolive.sxrtv.com/live/jiaotong
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西经济广播.png" group-title="综合广播" radio="true" catchup="disable",山西经济广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西经济广播.png" group-title="综合广播" radio="true",山西经济广播
 rtmp://radiolive.sxrtv.com/live/jingji
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西综合广播.png" group-title="综合广播" radio="true" catchup="disable",山西综合广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西综合广播.png" group-title="综合广播" radio="true",山西综合广播
 rtmp://radiolive.sxrtv.com/live/zonghe
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西故事广播.png" group-title="综合广播" radio="true" catchup="disable",山西故事广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西故事广播.png" group-title="综合广播" radio="true",山西故事广播
 rtmp://radiolive.sxrtv.com/live/gushi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/欢乐调频.png" group-title="综合广播" radio="true" catchup="disable",欢乐调频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/欢乐调频.png" group-title="综合广播" radio="true",欢乐调频
 http://starfish.bj.aliyun.007.qingting.fm:8000/huanletiaopin
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/房山电台.png" group-title="综合广播" radio="true" catchup="disable",房山电台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/房山电台.png" group-title="综合广播" radio="true",房山电台
 http://live.funhillrm.com/3/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr维吾尔语广播.png" group-title="综合广播" radio="true" catchup="disable",维吾尔语广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr维吾尔语广播.png" group-title="综合广播" radio="true",维吾尔语广播
 http://ngcdn013.cnr.cn/live/wygb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr藏语广播.png" group-title="综合广播" radio="true" catchup="disable",藏语广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr藏语广播.png" group-title="综合广播" radio="true",藏语广播
 http://ngcdn012.cnr.cn/live/zygb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr哈萨克语广播.png" group-title="综合广播" radio="true" catchup="disable",哈萨克语广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr哈萨克语广播.png" group-title="综合广播" radio="true",哈萨克语广播
 http://ngcdn025.cnr.cn/live/hygb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/音乐之声.png" group-title="音乐广播" radio="true" catchup="disable",CNR音乐之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/音乐之声.png" group-title="音乐广播" radio="true",CNR音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/经典音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",CNR经典音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/经典音乐广播.png" group-title="音乐广播" radio="true",CNR经典音乐广播
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/hitfm联播网.png" group-title="音乐广播" radio="true" catchup="disable",CRI HIT FM (北京)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/hitfm联播网.png" group-title="音乐广播" radio="true",CRI HIT FM (北京)
 https://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/hitfm.png" group-title="音乐广播" radio="true" catchup="disable",CRI HIT FM (广州)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/hitfm.png" group-title="音乐广播" radio="true",CRI HIT FM (广州)
 https://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/北京经典969.png" group-title="音乐广播" radio="true" catchup="disable",北京经典969
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/北京经典969.png" group-title="音乐广播" radio="true",北京经典969
 http://live.funhillrm.com/4/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2019/0830/20190830075424.jpeg" group-title="音乐广播" radio="true" catchup="disable",旅游之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2019/0830/20190830075424.jpeg" group-title="音乐广播" radio="true",旅游之声
 http://starfish.bj.aliyun.007.qingting.fm:8000/fm98.7lvyouzhisheng
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",陕西音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西音乐广播.png" group-title="音乐广播" radio="true",陕西音乐广播
 https://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/好听1055.png" group-title="音乐广播" radio="true" catchup="disable",陕西青少广播·好听1055
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/好听1055.png" group-title="音乐广播" radio="true",陕西青少广播·好听1055
 https://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/苏州音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",苏州都市音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/苏州音乐广播.png" group-title="音乐广播" radio="true",苏州都市音乐广播
 http://audio-live.radio.cn/live/szyy1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",山东音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东音乐广播.png" group-title="音乐广播" radio="true",山东音乐广播
 https://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东经典音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",山东经典音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东经典音乐广播.png" group-title="音乐广播" radio="true",山东经典音乐广播
 https://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",安徽音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽音乐广播.png" group-title="音乐广播" radio="true",安徽音乐广播
 https://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁波音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",宁波音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁波音乐广播.png" group-title="音乐广播" radio="true",宁波音乐广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2021/0809/20210809021518.png" group-title="音乐广播" radio="true" catchup="disable",湖南音乐之声·芒果音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2021/0809/20210809021518.png" group-title="音乐广播" radio="true",湖南音乐之声·芒果音乐台
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/摩登音乐台.png" group-title="音乐广播" radio="true" catchup="disable",湖南文艺广播·摩登音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/摩登音乐台.png" group-title="音乐广播" radio="true",湖南文艺广播·摩登音乐台
 https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/惠州音乐广播.JPG" group-title="音乐广播" radio="true" catchup="disable",惠州音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/惠州音乐广播.JPG" group-title="音乐广播" radio="true",惠州音乐广播
 http://stream.hztvmg.com/test17/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宜昌广播.png" group-title="音乐广播" radio="true" catchup="disable",宜昌音乐生活广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宜昌广播.png" group-title="音乐广播" radio="true",宜昌音乐生活广播
 http://playfmaliyun.3xgd.com/fm/qct.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江西旅游广播.png" group-title="音乐广播" radio="true" catchup="disable",江西旅游广播iFM97.4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江西旅游广播.png" group-title="音乐广播" radio="true",江西旅游广播iFM97.4
 http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_pyhgb_aac.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江西故事广播.png" group-title="音乐广播" radio="true" catchup="disable",江西故事广播·潮台969
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江西故事广播.png" group-title="音乐广播" radio="true",江西故事广播·潮台969
 http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969_aac.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",山西音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西音乐广播.png" group-title="音乐广播" radio="true",山西音乐广播
 https://radiolive.sxrtv.com/live/yinyue/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/内蒙古音乐之声.png" group-title="音乐广播" radio="true" catchup="disable",内蒙古音乐之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/内蒙古音乐之声.png" group-title="音乐广播" radio="true",内蒙古音乐之声
 https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖北经典音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",湖北经典音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖北经典音乐广播.png" group-title="音乐广播" radio="true",湖北经典音乐广播
 https://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/甘肃青春调频.png" group-title="音乐广播" radio="true" catchup="disable",甘肃青春调频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/甘肃青春调频.png" group-title="音乐广播" radio="true",甘肃青春调频
 https://satellitepull.cnr.cn/live/wxgsqcgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/甘肃都市调频.png" group-title="音乐广播" radio="true" catchup="disable",甘肃都市调频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/甘肃都市调频.png" group-title="音乐广播" radio="true",甘肃都市调频
 https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/0225/20150225111148873.png" group-title="音乐广播" radio="true" catchup="disable",广西音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/0225/20150225111148873.png" group-title="音乐广播" radio="true",广西音乐广播
 https://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广西女主播.png" group-title="音乐广播" radio="true" catchup="disable",广西经济广播·女主播电台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广西女主播.png" group-title="音乐广播" radio="true",广西经济广播·女主播电台
 https://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",云南音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南音乐广播.png" group-title="音乐广播" radio="true",云南音乐广播
 https://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川城市之音.png" group-title="音乐广播" radio="true" catchup="disable",四川城市之音
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川城市之音.png" group-title="音乐广播" radio="true",四川城市之音
 https://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川岷江音乐.png" group-title="音乐广播" radio="true" catchup="disable",四川岷江音乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川岷江音乐.png" group-title="音乐广播" radio="true",四川岷江音乐
 https://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/厦门音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",厦门音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/厦门音乐广播.png" group-title="音乐广播" radio="true",厦门音乐广播
 http://live1.kxm.xmtv.cn/aac_xmyy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/楚天音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",楚天音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/楚天音乐广播.png" group-title="音乐广播" radio="true",楚天音乐广播
 https://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",江苏音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏音乐广播.png" group-title="音乐广播" radio="true",江苏音乐广播
 https://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏经典流行音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",江苏经典流行音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏经典流行音乐广播.png" group-title="音乐广播" radio="true",江苏经典流行音乐广播
 https://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/动听968.png" group-title="音乐广播" radio="true" catchup="disable",浙江音乐调频·动听968
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/动听968.png" group-title="音乐广播" radio="true",浙江音乐调频·动听968
 https://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",河北音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北音乐广播.png" group-title="音乐广播" radio="true",河北音乐广播
 https://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广东音乐之声.png" group-title="音乐广播" radio="true" catchup="disable",广东音乐之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广东音乐之声.png" group-title="音乐广播" radio="true",广东音乐之声
 https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/深圳飞扬971.png" group-title="音乐广播" radio="true" catchup="disable",深圳飞扬971
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/深圳飞扬971.png" group-title="音乐广播" radio="true",深圳飞扬971
 https://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/深圳生活942.png" group-title="音乐广播" radio="true" catchup="disable",深圳生活942
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/深圳生活942.png" group-title="音乐广播" radio="true",深圳生活942
 https://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/海南音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",海南音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/海南音乐广播.png" group-title="音乐广播" radio="true",海南音乐广播
 https://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",贵州音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州音乐广播.png" group-title="音乐广播" radio="true",贵州音乐广播
 https://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州都市广播.png" group-title="音乐广播" radio="true" catchup="disable",贵州都市广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州都市广播.png" group-title="音乐广播" radio="true",贵州都市广播
 https://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁夏音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",宁夏音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁夏音乐广播.png" group-title="音乐广播" radio="true",宁夏音乐广播
 https://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/重庆音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",重庆音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/重庆音乐广播.png" group-title="音乐广播" radio="true",重庆音乐广播
 https://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江西音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",江西音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江西音乐广播.png" group-title="音乐广播" radio="true",江西音乐广播
 https://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/黑龙江音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",黑龙江音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/黑龙江音乐广播.png" group-title="音乐广播" radio="true",黑龙江音乐广播
 https://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福建汽车音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",福建汽车音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福建汽车音乐广播.png" group-title="音乐广播" radio="true",福建汽车音乐广播
 https://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/哈尔滨古典音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",哈尔滨古典音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/哈尔滨古典音乐广播.png" group-title="音乐广播" radio="true",哈尔滨古典音乐广播
 http://pull.hrbtv.net/tv/12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福州音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",福州音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福州音乐广播.png" group-title="音乐广播" radio="true",福州音乐广播
 http://live.zohi.tv/audio/s10001-FM893/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/成都经典946.png" group-title="音乐广播" radio="true" catchup="disable",成都文化休闲广播·radio946
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/成都经典946.png" group-title="音乐广播" radio="true",成都文化休闲广播·radio946
 http://149.129.100.78/cdgb.php?id=433-20
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/海口音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",WHIZ Radio 海口音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/海口音乐广播.png" group-title="音乐广播" radio="true",WHIZ Radio 海口音乐广播
 http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="h" group-title="音乐广播" radio="true" catchup="disable",青岛音体广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="h" group-title="音乐广播" radio="true",青岛音体广播
 http://video11.qtv.com.cn/zhiboytgb-sd/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="h" group-title="音乐广播" radio="true" catchup="disable",青岛摩登音乐调频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="h" group-title="音乐广播" radio="true",青岛摩登音乐调频
 http://video11.qtv.com.cn/zhibo886/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/辽宁经典音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",辽宁经典音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/辽宁经典音乐广播.png" group-title="音乐广播" radio="true",辽宁经典音乐广播
 https://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/青海交通音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",青海交通音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/青海交通音乐广播.png" group-title="音乐广播" radio="true",青海交通音乐广播
 https://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/北京音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",北京音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/北京音乐广播.png" group-title="音乐广播" radio="true",北京音乐广播
 http://audiolive2.rbc.cn:1935/live/fm974/96K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2017/0501/20170501063612.jpeg" group-title="音乐广播" radio="true" catchup="disable",武汉音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2017/0501/20170501063612.jpeg" group-title="音乐广播" radio="true",武汉音乐广播
 http://stream.appwuhan.com/yypdzb/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/0521/20150521164427620.png" group-title="音乐广播" radio="true" catchup="disable",武汉青少广播·M-radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/0521/20150521164427620.png" group-title="音乐广播" radio="true",武汉青少广播·M-radio
 http://stream.appwuhan.com/sepdzb/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长沙城市之声.png" group-title="音乐广播" radio="true" catchup="disable",长沙城市之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长沙城市之声.png" group-title="音乐广播" radio="true",长沙城市之声
 http://115.238.238.218/zhcs_radio/cszs1017__redirect__20573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长沙音乐广播.png" group-title="音乐广播" radio="true" catchup="disable",长沙音乐广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长沙音乐广播.png" group-title="音乐广播" radio="true",长沙音乐广播
 http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长沙交通广播.png" group-title="音乐广播" radio="true" catchup="disable",长沙交通广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长沙交通广播.png" group-title="音乐广播" radio="true",长沙交通广播
 http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
