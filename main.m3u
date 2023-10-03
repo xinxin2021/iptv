@@ -9,8 +9,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV5P.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
@@ -33,10 +31,12 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV16.png" group-title="央视频道" catchup="disable",CCTV-16 奥林匹克 4K
-https://cntv.sbs/tv?auth=230927&id=cctv164k
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV17.png" group-title="央视频道",CCTV-17 农业军事
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV5P.png" group-title="央视频道",CCTV-5+ 体育赛事
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV16.png" group-title="央视频道" catchup="disable",CCTV-16 奥林匹克 4K
+https://cntv.sbs/tv?auth=230927&id=cctv164k
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV4K.png" group-title="央视频道" catchup="disable",CCTV-4K 超高清
 https://cntv.sbs/tv?auth=230927&id=cctv4k
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CGTN.png" group-title="央视频道" catchup="disable",CGTN 英语
