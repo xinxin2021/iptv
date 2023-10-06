@@ -36,17 +36,17 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV5P.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV16.png" group-title="央视频道" catchup="disable",CCTV-16 奥林匹克 4K
-https://cntv.sbs/tv?auth=230927&id=cctv164k
+https://cntv.sbs/tv?auth=231005&id=cctv164k
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV4K.png" group-title="央视频道" catchup="disable",CCTV-4K 超高清
-https://cntv.sbs/tv?auth=230927&id=cctv4k
+https://cntv.sbs/tv?auth=231005&id=cctv4k
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CGTN.png" group-title="央视频道" catchup="disable",CGTN 英语
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CETV1.png" group-title="央视频道" catchup="disable",CETV-1
-https://cntv.sbs/tv?auth=230927&id=cetv1
+https://cntv.sbs/tv?auth=231005&id=cetv1
 #EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CETV2.png" group-title="央视频道" catchup="disable",CETV-2
-https://cntv.sbs/tv?auth=230927&id=cetv2
+https://cntv.sbs/tv?auth=231005&id=cetv2
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CETV4.png" group-title="央视频道" catchup="disable",CETV-4
-https://cntv.sbs/tv?auth=230927&id=cetv4
+https://cntv.sbs/tv?auth=231005&id=cetv4
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/fenghuang_zhongwen.png" group-title="香港频道",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/fenghuang_zixun.png" group-title="香港频道",凤凰资讯
@@ -68,7 +68,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/dongfang.png" group-title="卫视频道",东方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/sichuan.png" group-title="卫视频道" catchup="disable",四川卫视
-https://cntv.sbs/tv?auth=230927&id=scws
+https://cntv.sbs/tv?auth=231005&id=scws
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/tianjin.png" group-title="卫视频道",天津卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/1.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/anhui.png" group-title="卫视频道",安徽卫视
@@ -82,15 +82,15 @@ http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw2325655923_1638953995
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/jiangsu.png" group-title="卫视频道",江苏卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/jiangxi.png" group-title="卫视频道" catchup="disable",江西卫视
-https://cntv.sbs/tv?auth=230927&id=jxws
+https://cntv.sbs/tv?auth=231005&id=jxws
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/hebei.png" group-title="卫视频道" catchup="disable",河北卫视
-https://cntv.sbs/tv?auth=230927&id=hbws
+https://cntv.sbs/tv?auth=231005&id=hbws
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/henan.png" group-title="卫视频道" catchup="disable",河南卫视
-https://cntv.sbs/tv?auth=230927&id=hnws
+https://cntv.sbs/tv?auth=231005&id=hnws
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/zhejiang.png" group-title="卫视频道",浙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/hainan.png" group-title="卫视频道" catchup="disable",海南卫视
-https://cntv.sbs/tv?auth=230927&id=hinws
+https://cntv.sbs/tv?auth=231005&id=hinws
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/shenzhen.png" group-title="卫视频道",深圳卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/1.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/hubei.png" group-title="卫视频道",湖北卫视
@@ -98,7 +98,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/shanxi.png" group-title="卫视频道",山西卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1574076400_-2066173512/ott.mobaibox.com/PLTV/3/224/3221227559/index.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/dongnan.png" group-title="卫视频道" catchup="disable",东南卫视
-https://cntv.sbs/tv?auth=230927&id=dnws
+https://cntv.sbs/tv?auth=231005&id=dnws
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/guizhou.png" group-title="卫视频道",贵州卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/wh7f454c46tw2087544744_109645303/ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/liaoning.png" group-title="卫视频道",辽宁卫视
@@ -108,23 +108,23 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/heilongjiang.png" group-title="卫视频道",黑龙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/ningxia.png" group-title="卫视频道" catchup="disable",宁夏卫视
-https://cntv.sbs/tv?auth=230927&id=nxws
+https://cntv.sbs/tv?auth=231005&id=nxws
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/shannxi.png" group-title="卫视频道",陕西卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2360314992_451435426/ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/gansu.png" group-title="卫视频道",甘肃卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/jilin.png" group-title="卫视频道",吉林卫视
-https://cntv.sbs/tv?auth=230927&id=jlws
+https://cntv.sbs/tv?auth=231005&id=jlws
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/yunnan.png" group-title="卫视频道" catchup="disable",云南卫视
-https://cntv.sbs/tv?auth=230927&id=ynws
+https://cntv.sbs/tv?auth=231005&id=ynws
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/sansha.png" group-title="卫视频道" catchup="disable",三沙卫视
-https://cntv.sbs/tv?auth=230927&id=ssws
+https://cntv.sbs/tv?auth=231005&id=ssws
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/xiamen.png" group-title="卫视频道" catchup="disable",厦门卫视
-https://cntv.sbs/tv?auth=230927&id=xmws
+https://cntv.sbs/tv?auth=231005&id=xmws
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/qinghai.png" group-title="卫视频道" catchup="disable",青海卫视
-https://cntv.sbs/tv?auth=230927&id=qhws
+https://cntv.sbs/tv?auth=231005&id=qhws
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/xinjiang.png" group-title="卫视频道" catchup="disable",新疆卫视
-https://cntv.sbs/tv?auth=230927&id=xjws
+https://cntv.sbs/tv?auth=231005&id=xjws
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/xizang.png" group-title="卫视频道",西藏卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/1.m3u8
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/kangba.png" group-title="卫视频道",康巴卫视
@@ -196,11 +196,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/32212
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/jinyingkatong.png" group-title="少儿频道",金鹰卡通
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001098/index.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/jiajiakatong.png" group-title="少儿频道" catchup="disable",嘉佳卡通
-https://cntv.sbs/tv?auth=230927&id=jjkt
+https://cntv.sbs/tv?auth=231005&id=jjkt
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/kaku.png" group-title="少儿频道" catchup="disable",卡酷少儿
 https://cntv.sbs/tv/ipv6.php?id=245
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/hahaxuandong.png" group-title="少儿频道" catchup="disable",哈哈炫动
-https://cntv.sbs/tv?auth=230927&id=hhxd
+https://cntv.sbs/tv?auth=231005&id=hhxd
 #EXTINF:-1 group-title="景区" catchup="disable",北京-水长城01
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="景区" catchup="disable",北京-水长城02
