@@ -13,11 +13,11 @@ IPTV 直播源，改自 [fanmingming/live](/fanmingming/live) 和一些其他直
 
 使用后造成的法律后果请自行承担。另，请知晓我没有任何义务为您服务。某天停止更新也很正常。
 
-此项目与 [fanmingming/live](/fanmingming/live) 无关，不要在这个项目中提到本项目。
+此项目与 [fanmingming/live](//github.com/fanmingming/live) 无关，不要在这个项目中提到本项目。
 
 我的邮箱：[xinxin@xinxin2021.tk](mailto:xinxin@xinxin2021.tk)
 
-本人并不希望有很多人使用此项目。敬请查看 [fanmingming/live](/fanmingming/live)。
+本人并不希望有很多人使用此项目。敬请查看 [fanmingming/live](//github.com/fanmingming/live)。
 
 Issues 和 Discussions 已关闭。PR 也不会处理。任何问题我都不想解决，除非影响到我自己使用了。
 
