@@ -1,6 +1,11 @@
-<center><b>一个自用的 IPTV 直播源</b></center>
+<p align="center"><b>一个自用的 IPTV 直播源</b></p>
 
-<p align="center"><img src="https://img.shields.io/github/stars/xinxin2021/iptv?style=flat-square"><img src="https://img.shields.io/github/forks/xinxin2021/iptv?style=flat-square"><img src="https://img.shields.io/github/watchers/xinxin2021/iptv?style=flat-square"><img src="https://img.shields.io/github/license/xinxin2021/iptv?style=flat-square"></p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/xinxin2021/iptv?style=flat-square">
+  <img src="https://img.shields.io/github/forks/xinxin2021/iptv?style=flat-square">
+  <img src="https://img.shields.io/github/watchers/xinxin2021/iptv?style=flat-square">
+  <img src="https://img.shields.io/github/license/xinxin2021/iptv?style=flat-square">
+</p>
 
 ---
 
