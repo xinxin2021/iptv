@@ -33,12 +33,12 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV17.png" group-title="央视频道",CCTV-17 农业军事
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV5.png" group-title="央视频道",CCTV-5 体育 4K
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV5P.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV1.png" group-title="央视频道",CCTV-1 综合 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV5.png" group-title="央视频道",CCTV-5 体育 4K
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV16.png" group-title="央视频道" catchup="disable",CCTV-16 奥林匹克 4K
 https://cntv.lat/tv/live.php?auth=231110&id=CCTV16_4K
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV4K.png" group-title="央视频道" catchup="disable",CCTV-4K 超高清
