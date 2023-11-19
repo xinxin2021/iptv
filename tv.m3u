@@ -42,7 +42,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV16.png" group-title="央视频道" catchup="disable",CCTV-16 奥林匹克 4K
 https://cntv.lat/tv/live.php?auth=231110&id=CCTV16_4K
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV4K.png" group-title="央视频道" catchup="disable",CCTV-4K 超高清
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+https://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CGTN.png" group-title="央视频道",CGTN 英语
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/fenghuang/zhongwen.png" group-title="香港频道",凤凰中文
