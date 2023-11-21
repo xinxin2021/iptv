@@ -11,6 +11,8 @@
 
 IPTV 直播源，改自 [fanmingming/live](/fanmingming/live) 和一些其他直播源项目，自用，长期更新。
 
+所有播放源均收集于互联网，仅供测试研究使用，不得商用。
+
 使用后造成的法律后果请自行承担。另，请知晓我没有任何义务为您服务。某天停止更新也很正常。
 
 此项目与 [fanmingming/live](//github.com/fanmingming/live) 无关，不要在这个项目中提到本项目。
