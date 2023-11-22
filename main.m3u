@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.112114.eu.org/pp.xml" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}"
-#EXTM3U x-tvg-url="https://epg.112114.eu.org/pp.xml" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV2.png" group-title="央视频道",CCTV-2 财经
@@ -40,12 +39,18 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV5.png" group-title="央视频道",CCTV-5 体育 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV16.png" group-title="央视频道" catchup="disable",CCTV-16 奥林匹克 4K
-https://cntv.lat/tv/live.php?auth=231110&id=CCTV16_4K
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CCTV4K.png" group-title="央视频道" catchup="disable",CCTV-4K 超高清
-https://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CGTN.png" group-title="央视频道",CGTN 英语
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CGTNe.png" group-title="央视频道" catchup="disable",CGTN 俄语
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CGTNf.png" group-title="央视频道" catchup="disable",CGTN 法语
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CGTNx.png" group-title="央视频道" catchup="disable",CGTN 西语
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CGTNa.png" group-title="央视频道" catchup="disable",CGTN 阿语
+https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CGTNj.png" group-title="央视频道" catchup="disable",CGTN 纪录
+https://livedoc.cgtn.com/500d/prog_index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/fenghuang/zhongwen.png" group-title="香港频道",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/fenghuang/zixun.png" group-title="香港频道",凤凰资讯
@@ -203,7 +208,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/chunxiang4K.png" group-title="超清频道",纯享 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/jinyingkatong.png" group-title="少儿频道" catchup="disable",金鹰卡通
-https://cntv.lat/tv/live.php?auth=231110&id=jinyingSD
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001098/index.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/jiajiakatong.png" group-title="少儿频道" catchup="disable",嘉佳卡通
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/kaku.png" group-title="少儿频道" catchup="disable",卡酷少儿
