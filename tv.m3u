@@ -57,10 +57,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-202153516
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/fenghuang/hongkong.png" group-title="香港频道",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/tvb/feicui.png" group-title="香港频道" catchup="disable",TVB 翡翠台
-https://pi.0472.org/tv/fct.php?auth=231110
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/tvb/mingzhu.png" group-title="香港频道" catchup="disable",TVB 明珠台
-https://pi.0472.org/tv/mzt.php?auth=231110
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CHC1.png" group-title="央视频道",CHC 动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/cctv/CHC2.png" group-title="央视频道",CHC 家庭影院
