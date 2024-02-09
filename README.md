@@ -9,9 +9,6 @@
 
 ---
 
-> [!CAUTION]
-> 由于 Freenom 免费域名状态突然变成 PENDING，联网更新暂无法使用，请使用联网更新的用户即刻更改至手动文件更新。预期在 60 天内完全恢复，届时此通知将删除。
-
 ## 用前必看
 
 IPTV 直播源，改自 [fanmingming/live](//github.com/fanmingming/live) 和一些其他直播源项目，自用，长期更新。
