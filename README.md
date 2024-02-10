@@ -60,9 +60,9 @@ fanmingming 的赞助二维码：
 | `.nojekyll` | -                                | 用不着               |
 | `CNAME`     | -                                | 用不着               |
 | `LICENSE`   | -                                | 用不着               |
-| `main.m3u`  | 包含了电视和电台 (现仍有广西台)  | 用 Kodi 推荐这个     |
+| `main.m3u`  | 包含了电视和电台                 | 用 Kodi 推荐这个     |
 | `gx.m3u`    | 对比`main.m3u`，添加了更多广西台 | 非广西人别用         |
-| `tv.m3u`    | 只有电视台 (现仍有广西台)        | 用 Tivimate 推荐这个 |
+| `tv.m3u`    | 只有电视台                       | 用 Tivimate 推荐这个 |
 | `gxtv.m3u`  | 对比`tv.m3u`，添加了更多广西台   | 非广西人别用         |
 | `radio.m3u` | 只有电台                         | 还没想到使用场景     |
 | `README.md` | 说明文件                         | 你现在看的就是我     |
