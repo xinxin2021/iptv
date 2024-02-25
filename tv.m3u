@@ -132,7 +132,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1874077489_789689702/ott
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/yunnan.png" group-title="卫视频道",云南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226444/index.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/sansha.png" group-title="卫视频道",三沙卫视
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/TVOD/4/224/3221228626/index.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/xiamen.png" group-title="卫视频道",厦门卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/qinghai.png" group-title="卫视频道",青海卫视
