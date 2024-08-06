@@ -25,7 +25,7 @@ IPTV 直播源，改自 [fanmingming/live](//github.com/fanmingming/live) 和一
 
 本人并不希望有很多人使用此项目。敬请查看 [fanmingming/live](//github.com/fanmingming/live)。
 
-Issues 和 Discussions 已关闭。PR 也不会处理。任何问题我都不想解决，除非影响到我自己使用了。
+Issues 和 Discussions 已关闭。PR 也不会处理。老实说，任何问题我都不太想解决，除非影响到我自己使用了。
 
 感谢 fanmingming，提供了这么一个完善且强大的项目。
 
@@ -33,11 +33,9 @@ Issues 和 Discussions 已关闭。PR 也不会处理。任何问题我都不想
 
 我建议你赞助 fanmingming，我就是个搬运工。
 
-fanmingming 的赞助二维码：
+[赞助 fanmingming](//sponsor.fanmingming.com)
 
-![](https://github.com/fanmingming/live/blob/main/sponsor.png?raw=true)
-
-[赞助我](//sponsor.xinxin2021.tk)
+[赞助我](//sponsor.gteh.top)
 
 ### 宇宙安全声明
 
@@ -57,8 +55,7 @@ fanmingming 的赞助二维码：
 
 | 名称        | 包含             | 备注                 |
 | ----------- | ---------------- | -------------------- |
-| `.nojekyll` | -                | 用不着               |
-| `CNAME`     | -                | 用不着               |
+| `_headers`  | -                | 用不着               |
 | `LICENSE`   | -                | 用不着               |
 | `main.m3u`  | 包含了电视和电台 | 用 Kodi 推荐这个     |
 | `tv.m3u`    | 只有电视台       | 用 Tivimate 推荐这个 |
@@ -69,4 +66,6 @@ fanmingming 的赞助二维码：
 
 ## 联网更新
 
-相信你看到了，GitHub Pages 的部署早已启动。等待探索……方法不讲了。
+~~相信你看到了，GitHub Pages 的部署早已启动。等待探索……方法不讲了。~~
+
+本项目现已迁移至 Cloudflare Pages 提供服务。
