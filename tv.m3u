@@ -36,17 +36,9 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://drive.gteh.top/api/raw/?path=/iptv/tv/cctv/CCTV5P.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://drive.gteh.top/api/raw/?path=/iptv/tv/cctv/CGTN.png" group-title="央视频道" catchup="disable",CGTN 英语
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://drive.gteh.top/api/raw/?path=/iptv/tv/cctv/CGTNe.png" group-title="央视频道" catchup="disable",CGTN 俄语
-https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://drive.gteh.top/api/raw/?path=/iptv/tv/cctv/CGTNf.png" group-title="央视频道" catchup="disable",CGTN 法语
-https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://drive.gteh.top/api/raw/?path=/iptv/tv/cctv/CGTNx.png" group-title="央视频道" catchup="disable",CGTN 西语
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://drive.gteh.top/api/raw/?path=/iptv/tv/cctv/CGTNa.png" group-title="央视频道" catchup="disable",CGTN 阿语
-https://livear.cgtn.com/1000a/prog_index.m3u8
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://drive.gteh.top/api/raw/?path=/iptv/tv/cctv/CGTNj.png" group-title="央视频道" catchup="disable",CGTN 纪录
-https://livedoc.cgtn.com/500d/prog_index.m3u8
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://drive.gteh.top/api/raw/?path=/iptv/tv/cctv/CETV1.png" group-title="央视频道",CETV-1
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://drive.gteh.top/api/raw/?path=/iptv/tv/cctv/CETV2.png" group-title="央视频道",CETV-2
